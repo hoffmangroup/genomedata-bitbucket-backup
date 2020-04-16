@@ -1,0 +1,1837 @@
+{'_context_count': 0,
+ '_file_attrs': /._v_attrs (AttributeSet), 6 attributes:
+   [CLASS := 'GROUP',
+    FILTERS := Filters(complevel=1, complib='zlib', shuffle=True, bitshuffle=False, fletcher32=False, least_significant_digit=None),
+    PYTABLES_FORMAT_VERSION := '2.1',
+    TITLE := '',
+    VERSION := '1.0',
+    genomedata_format_version := 1],
+ '_isfile': True,
+ '_isopen': True,
+ '_path': path(u'archive'),
+ 'args': (),
+ 'filename': 'archive',
+ 'h5file': File(filename=archive, title='', mode='r', root_uep='/', filters=Filters(complevel=1, complib='zlib', shuffle=True, bitshuffle=False, fletcher32=False, least_significant_digit=None))
+/ (RootGroup) ''
+/chr1 (Group) ''
+/chr10 (Group) ''
+/chr11 (Group) ''
+/chr11_KI270721v1_random (Group) ''
+/chr12 (Group) ''
+/chr13 (Group) ''
+/chr14 (Group) ''
+/chr14_GL000009v2_random (Group) ''
+/chr14_GL000194v1_random (Group) ''
+/chr14_GL000225v1_random (Group) ''
+/chr14_KI270722v1_random (Group) ''
+/chr14_KI270723v1_random (Group) ''
+/chr14_KI270724v1_random (Group) ''
+/chr14_KI270725v1_random (Group) ''
+/chr14_KI270726v1_random (Group) ''
+/chr15 (Group) ''
+/chr15_KI270727v1_random (Group) ''
+/chr16 (Group) ''
+/chr16_KI270728v1_random (Group) ''
+/chr17 (Group) ''
+/chr17_GL000205v2_random (Group) ''
+/chr17_KI270729v1_random (Group) ''
+/chr17_KI270730v1_random (Group) ''
+/chr18 (Group) ''
+/chr19 (Group) ''
+/chr1_KI270706v1_random (Group) ''
+/chr1_KI270707v1_random (Group) ''
+/chr1_KI270708v1_random (Group) ''
+/chr1_KI270709v1_random (Group) ''
+/chr1_KI270710v1_random (Group) ''
+/chr1_KI270711v1_random (Group) ''
+/chr1_KI270712v1_random (Group) ''
+/chr1_KI270713v1_random (Group) ''
+/chr1_KI270714v1_random (Group) ''
+/chr2 (Group) ''
+/chr20 (Group) ''
+/chr21 (Group) ''
+/chr22 (Group) ''
+/chr22_KI270731v1_random (Group) ''
+/chr22_KI270732v1_random (Group) ''
+/chr22_KI270733v1_random (Group) ''
+/chr22_KI270734v1_random (Group) ''
+/chr22_KI270735v1_random (Group) ''
+/chr22_KI270736v1_random (Group) ''
+/chr22_KI270737v1_random (Group) ''
+/chr22_KI270738v1_random (Group) ''
+/chr22_KI270739v1_random (Group) ''
+/chr2_KI270715v1_random (Group) ''
+/chr2_KI270716v1_random (Group) ''
+/chr3 (Group) ''
+/chr3_GL000221v1_random (Group) ''
+/chr4 (Group) ''
+/chr4_GL000008v2_random (Group) ''
+/chr5 (Group) ''
+/chr5_GL000208v1_random (Group) ''
+/chr6 (Group) ''
+/chr7 (Group) ''
+/chr8 (Group) ''
+/chr9 (Group) ''
+/chr9_KI270717v1_random (Group) ''
+/chr9_KI270718v1_random (Group) ''
+/chr9_KI270719v1_random (Group) ''
+/chr9_KI270720v1_random (Group) ''
+/chrEBV (Group) ''
+/chrM (Group) ''
+/chrUn_GL000195v1 (Group) ''
+/chrUn_GL000213v1 (Group) ''
+/chrUn_GL000214v1 (Group) ''
+/chrUn_GL000216v2 (Group) ''
+/chrUn_GL000218v1 (Group) ''
+/chrUn_GL000219v1 (Group) ''
+/chrUn_GL000220v1 (Group) ''
+/chrUn_GL000224v1 (Group) ''
+/chrUn_GL000226v1 (Group) ''
+/chrUn_KI270302v1 (Group) ''
+/chrUn_KI270303v1 (Group) ''
+/chrUn_KI270304v1 (Group) ''
+/chrUn_KI270305v1 (Group) ''
+/chrUn_KI270310v1 (Group) ''
+/chrUn_KI270311v1 (Group) ''
+/chrUn_KI270312v1 (Group) ''
+/chrUn_KI270315v1 (Group) ''
+/chrUn_KI270316v1 (Group) ''
+/chrUn_KI270317v1 (Group) ''
+/chrUn_KI270320v1 (Group) ''
+/chrUn_KI270322v1 (Group) ''
+/chrUn_KI270329v1 (Group) ''
+/chrUn_KI270330v1 (Group) ''
+/chrUn_KI270333v1 (Group) ''
+/chrUn_KI270334v1 (Group) ''
+/chrUn_KI270335v1 (Group) ''
+/chrUn_KI270336v1 (Group) ''
+/chrUn_KI270337v1 (Group) ''
+/chrUn_KI270338v1 (Group) ''
+/chrUn_KI270340v1 (Group) ''
+/chrUn_KI270362v1 (Group) ''
+/chrUn_KI270363v1 (Group) ''
+/chrUn_KI270364v1 (Group) ''
+/chrUn_KI270366v1 (Group) ''
+/chrUn_KI270371v1 (Group) ''
+/chrUn_KI270372v1 (Group) ''
+/chrUn_KI270373v1 (Group) ''
+/chrUn_KI270374v1 (Group) ''
+/chrUn_KI270375v1 (Group) ''
+/chrUn_KI270376v1 (Group) ''
+/chrUn_KI270378v1 (Group) ''
+/chrUn_KI270379v1 (Group) ''
+/chrUn_KI270381v1 (Group) ''
+/chrUn_KI270382v1 (Group) ''
+/chrUn_KI270383v1 (Group) ''
+/chrUn_KI270384v1 (Group) ''
+/chrUn_KI270385v1 (Group) ''
+/chrUn_KI270386v1 (Group) ''
+/chrUn_KI270387v1 (Group) ''
+/chrUn_KI270388v1 (Group) ''
+/chrUn_KI270389v1 (Group) ''
+/chrUn_KI270390v1 (Group) ''
+/chrUn_KI270391v1 (Group) ''
+/chrUn_KI270392v1 (Group) ''
+/chrUn_KI270393v1 (Group) ''
+/chrUn_KI270394v1 (Group) ''
+/chrUn_KI270395v1 (Group) ''
+/chrUn_KI270396v1 (Group) ''
+/chrUn_KI270411v1 (Group) ''
+/chrUn_KI270412v1 (Group) ''
+/chrUn_KI270414v1 (Group) ''
+/chrUn_KI270417v1 (Group) ''
+/chrUn_KI270418v1 (Group) ''
+/chrUn_KI270419v1 (Group) ''
+/chrUn_KI270420v1 (Group) ''
+/chrUn_KI270422v1 (Group) ''
+/chrUn_KI270423v1 (Group) ''
+/chrUn_KI270424v1 (Group) ''
+/chrUn_KI270425v1 (Group) ''
+/chrUn_KI270429v1 (Group) ''
+/chrUn_KI270435v1 (Group) ''
+/chrUn_KI270438v1 (Group) ''
+/chrUn_KI270442v1 (Group) ''
+/chrUn_KI270448v1 (Group) ''
+/chrUn_KI270465v1 (Group) ''
+/chrUn_KI270466v1 (Group) ''
+/chrUn_KI270467v1 (Group) ''
+/chrUn_KI270468v1 (Group) ''
+/chrUn_KI270507v1 (Group) ''
+/chrUn_KI270508v1 (Group) ''
+/chrUn_KI270509v1 (Group) ''
+/chrUn_KI270510v1 (Group) ''
+/chrUn_KI270511v1 (Group) ''
+/chrUn_KI270512v1 (Group) ''
+/chrUn_KI270515v1 (Group) ''
+/chrUn_KI270516v1 (Group) ''
+/chrUn_KI270517v1 (Group) ''
+/chrUn_KI270518v1 (Group) ''
+/chrUn_KI270519v1 (Group) ''
+/chrUn_KI270521v1 (Group) ''
+/chrUn_KI270522v1 (Group) ''
+/chrUn_KI270528v1 (Group) ''
+/chrUn_KI270529v1 (Group) ''
+/chrUn_KI270530v1 (Group) ''
+/chrUn_KI270538v1 (Group) ''
+/chrUn_KI270539v1 (Group) ''
+/chrUn_KI270544v1 (Group) ''
+/chrUn_KI270548v1 (Group) ''
+/chrUn_KI270579v1 (Group) ''
+/chrUn_KI270580v1 (Group) ''
+/chrUn_KI270581v1 (Group) ''
+/chrUn_KI270582v1 (Group) ''
+/chrUn_KI270583v1 (Group) ''
+/chrUn_KI270584v1 (Group) ''
+/chrUn_KI270587v1 (Group) ''
+/chrUn_KI270588v1 (Group) ''
+/chrUn_KI270589v1 (Group) ''
+/chrUn_KI270590v1 (Group) ''
+/chrUn_KI270591v1 (Group) ''
+/chrUn_KI270593v1 (Group) ''
+/chrUn_KI270741v1 (Group) ''
+/chrUn_KI270742v1 (Group) ''
+/chrUn_KI270743v1 (Group) ''
+/chrUn_KI270744v1 (Group) ''
+/chrUn_KI270745v1 (Group) ''
+/chrUn_KI270746v1 (Group) ''
+/chrUn_KI270747v1 (Group) ''
+/chrUn_KI270748v1 (Group) ''
+/chrUn_KI270749v1 (Group) ''
+/chrUn_KI270750v1 (Group) ''
+/chrUn_KI270751v1 (Group) ''
+/chrUn_KI270752v1 (Group) ''
+/chrUn_KI270753v1 (Group) ''
+/chrUn_KI270754v1 (Group) ''
+/chrUn_KI270755v1 (Group) ''
+/chrUn_KI270756v1 (Group) ''
+/chrUn_KI270757v1 (Group) ''
+/chrX (Group) ''
+/chrY (Group) ''
+/chrY_KI270740v1_random (Group) ''
+/chrY_KI270740v1_random/supercontig_0 (Group) ''
+/chrY_KI270740v1_random/supercontig_0/seq (CArray(37240,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrY/supercontig_0 (Group) ''
+/chrY/supercontig_0/seq (CArray(23891735,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chrY/supercontig_1 (Group) ''
+/chrY/supercontig_1/seq (CArray(214688,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrX/supercontig_0 (Group) ''
+/chrX/supercontig_0/seq (CArray(1949345,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrX/supercontig_1 (Group) ''
+/chrX/supercontig_1/seq (CArray(34966268,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chrX/supercontig_2 (Group) ''
+/chrX/supercontig_2/seq (CArray(12062557,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chrX/supercontig_3 (Group) ''
+/chrX/supercontig_3/seq (CArray(66210555,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chrX/supercontig_4 (Group) ''
+/chrX/supercontig_4/seq (CArray(40201946,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chrUn_KI270757v1/supercontig_0 (Group) ''
+/chrUn_KI270757v1/supercontig_0/seq (CArray(71251,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270756v1/supercontig_0 (Group) ''
+/chrUn_KI270756v1/supercontig_0/seq (CArray(79590,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270755v1/supercontig_0 (Group) ''
+/chrUn_KI270755v1/supercontig_0/seq (CArray(36723,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270754v1/supercontig_0 (Group) ''
+/chrUn_KI270754v1/supercontig_0/seq (CArray(40191,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270753v1/supercontig_0 (Group) ''
+/chrUn_KI270753v1/supercontig_0/seq (CArray(62944,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270752v1/supercontig_0 (Group) ''
+/chrUn_KI270752v1/supercontig_0/seq (CArray(27745,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270751v1/supercontig_0 (Group) ''
+/chrUn_KI270751v1/supercontig_0/seq (CArray(150742,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270750v1/supercontig_0 (Group) ''
+/chrUn_KI270750v1/supercontig_0/seq (CArray(148850,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270749v1/supercontig_0 (Group) ''
+/chrUn_KI270749v1/supercontig_0/seq (CArray(158759,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270748v1/supercontig_0 (Group) ''
+/chrUn_KI270748v1/supercontig_0/seq (CArray(93321,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270747v1/supercontig_0 (Group) ''
+/chrUn_KI270747v1/supercontig_0/seq (CArray(198735,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270746v1/supercontig_0 (Group) ''
+/chrUn_KI270746v1/supercontig_0/seq (CArray(66486,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270745v1/supercontig_0 (Group) ''
+/chrUn_KI270745v1/supercontig_0/seq (CArray(41891,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270744v1/supercontig_0 (Group) ''
+/chrUn_KI270744v1/supercontig_0/seq (CArray(168472,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270743v1/supercontig_0 (Group) ''
+/chrUn_KI270743v1/supercontig_0/seq (CArray(210658,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270742v1/supercontig_0 (Group) ''
+/chrUn_KI270742v1/supercontig_0/seq (CArray(186739,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270741v1/supercontig_0 (Group) ''
+/chrUn_KI270741v1/supercontig_0/seq (CArray(157432,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270593v1/supercontig_0 (Group) ''
+/chrUn_KI270593v1/supercontig_0/seq (CArray(3041,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270591v1/supercontig_0 (Group) ''
+/chrUn_KI270591v1/supercontig_0/seq (CArray(5796,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270590v1/supercontig_0 (Group) ''
+/chrUn_KI270590v1/supercontig_0/seq (CArray(4685,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270589v1/supercontig_0 (Group) ''
+/chrUn_KI270589v1/supercontig_0/seq (CArray(44474,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270588v1/supercontig_0 (Group) ''
+/chrUn_KI270588v1/supercontig_0/seq (CArray(6158,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270587v1/supercontig_0 (Group) ''
+/chrUn_KI270587v1/supercontig_0/seq (CArray(2969,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270584v1/supercontig_0 (Group) ''
+/chrUn_KI270584v1/supercontig_0/seq (CArray(4513,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270583v1/supercontig_0 (Group) ''
+/chrUn_KI270583v1/supercontig_0/seq (CArray(1400,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270582v1/supercontig_0 (Group) ''
+/chrUn_KI270582v1/supercontig_0/seq (CArray(6504,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270581v1/supercontig_0 (Group) ''
+/chrUn_KI270581v1/supercontig_0/seq (CArray(7046,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270580v1/supercontig_0 (Group) ''
+/chrUn_KI270580v1/supercontig_0/seq (CArray(1553,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270579v1/supercontig_0 (Group) ''
+/chrUn_KI270579v1/supercontig_0/seq (CArray(31033,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270548v1/supercontig_0 (Group) ''
+/chrUn_KI270548v1/supercontig_0/seq (CArray(1599,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270544v1/supercontig_0 (Group) ''
+/chrUn_KI270544v1/supercontig_0/seq (CArray(1202,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270539v1/supercontig_0 (Group) ''
+/chrUn_KI270539v1/supercontig_0/seq (CArray(993,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270538v1/supercontig_0 (Group) ''
+/chrUn_KI270538v1/supercontig_0/seq (CArray(91309,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270530v1/supercontig_0 (Group) ''
+/chrUn_KI270530v1/supercontig_0/seq (CArray(2168,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270529v1/supercontig_0 (Group) ''
+/chrUn_KI270529v1/supercontig_0/seq (CArray(1899,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270528v1/supercontig_0 (Group) ''
+/chrUn_KI270528v1/supercontig_0/seq (CArray(2983,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270522v1/supercontig_0 (Group) ''
+/chrUn_KI270522v1/supercontig_0/seq (CArray(5674,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270521v1/supercontig_0 (Group) ''
+/chrUn_KI270521v1/supercontig_0/seq (CArray(7642,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270519v1/supercontig_0 (Group) ''
+/chrUn_KI270519v1/supercontig_0/seq (CArray(138126,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270518v1/supercontig_0 (Group) ''
+/chrUn_KI270518v1/supercontig_0/seq (CArray(2186,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270517v1/supercontig_0 (Group) ''
+/chrUn_KI270517v1/supercontig_0/seq (CArray(3253,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270516v1/supercontig_0 (Group) ''
+/chrUn_KI270516v1/supercontig_0/seq (CArray(1300,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270515v1/supercontig_0 (Group) ''
+/chrUn_KI270515v1/supercontig_0/seq (CArray(6361,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270512v1/supercontig_0 (Group) ''
+/chrUn_KI270512v1/supercontig_0/seq (CArray(22689,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270511v1/supercontig_0 (Group) ''
+/chrUn_KI270511v1/supercontig_0/seq (CArray(8127,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270510v1/supercontig_0 (Group) ''
+/chrUn_KI270510v1/supercontig_0/seq (CArray(2415,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270509v1/supercontig_0 (Group) ''
+/chrUn_KI270509v1/supercontig_0/seq (CArray(2318,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270508v1/supercontig_0 (Group) ''
+/chrUn_KI270508v1/supercontig_0/seq (CArray(1951,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270507v1/supercontig_0 (Group) ''
+/chrUn_KI270507v1/supercontig_0/seq (CArray(5353,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270468v1/supercontig_0 (Group) ''
+/chrUn_KI270468v1/supercontig_0/seq (CArray(4055,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270467v1/supercontig_0 (Group) ''
+/chrUn_KI270467v1/supercontig_0/seq (CArray(3920,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270466v1/supercontig_0 (Group) ''
+/chrUn_KI270466v1/supercontig_0/seq (CArray(1233,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270465v1/supercontig_0 (Group) ''
+/chrUn_KI270465v1/supercontig_0/seq (CArray(1774,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270448v1/supercontig_0 (Group) ''
+/chrUn_KI270448v1/supercontig_0/seq (CArray(7992,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270442v1/supercontig_0 (Group) ''
+/chrUn_KI270442v1/supercontig_0/seq (CArray(392061,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270438v1/supercontig_0 (Group) ''
+/chrUn_KI270438v1/supercontig_0/seq (CArray(112505,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270435v1/supercontig_0 (Group) ''
+/chrUn_KI270435v1/supercontig_0/seq (CArray(92983,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270429v1/supercontig_0 (Group) ''
+/chrUn_KI270429v1/supercontig_0/seq (CArray(1361,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270425v1/supercontig_0 (Group) ''
+/chrUn_KI270425v1/supercontig_0/seq (CArray(1884,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270424v1/supercontig_0 (Group) ''
+/chrUn_KI270424v1/supercontig_0/seq (CArray(2140,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270423v1/supercontig_0 (Group) ''
+/chrUn_KI270423v1/supercontig_0/seq (CArray(981,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270422v1/supercontig_0 (Group) ''
+/chrUn_KI270422v1/supercontig_0/seq (CArray(1445,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270420v1/supercontig_0 (Group) ''
+/chrUn_KI270420v1/supercontig_0/seq (CArray(2321,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270419v1/supercontig_0 (Group) ''
+/chrUn_KI270419v1/supercontig_0/seq (CArray(1029,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270418v1/supercontig_0 (Group) ''
+/chrUn_KI270418v1/supercontig_0/seq (CArray(2145,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270417v1/supercontig_0 (Group) ''
+/chrUn_KI270417v1/supercontig_0/seq (CArray(2043,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270414v1/supercontig_0 (Group) ''
+/chrUn_KI270414v1/supercontig_0/seq (CArray(2489,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270412v1/supercontig_0 (Group) ''
+/chrUn_KI270412v1/supercontig_0/seq (CArray(1179,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270411v1/supercontig_0 (Group) ''
+/chrUn_KI270411v1/supercontig_0/seq (CArray(2646,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270396v1/supercontig_0 (Group) ''
+/chrUn_KI270396v1/supercontig_0/seq (CArray(1880,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270395v1/supercontig_0 (Group) ''
+/chrUn_KI270395v1/supercontig_0/seq (CArray(1143,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270394v1/supercontig_0 (Group) ''
+/chrUn_KI270394v1/supercontig_0/seq (CArray(970,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270393v1/supercontig_0 (Group) ''
+/chrUn_KI270393v1/supercontig_0/seq (CArray(1308,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270392v1/supercontig_0 (Group) ''
+/chrUn_KI270392v1/supercontig_0/seq (CArray(971,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270391v1/supercontig_0 (Group) ''
+/chrUn_KI270391v1/supercontig_0/seq (CArray(1484,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270390v1/supercontig_0 (Group) ''
+/chrUn_KI270390v1/supercontig_0/seq (CArray(2387,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270389v1/supercontig_0 (Group) ''
+/chrUn_KI270389v1/supercontig_0/seq (CArray(1298,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270388v1/supercontig_0 (Group) ''
+/chrUn_KI270388v1/supercontig_0/seq (CArray(1216,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270387v1/supercontig_0 (Group) ''
+/chrUn_KI270387v1/supercontig_0/seq (CArray(1537,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270386v1/supercontig_0 (Group) ''
+/chrUn_KI270386v1/supercontig_0/seq (CArray(1788,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270385v1/supercontig_0 (Group) ''
+/chrUn_KI270385v1/supercontig_0/seq (CArray(990,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270384v1/supercontig_0 (Group) ''
+/chrUn_KI270384v1/supercontig_0/seq (CArray(1658,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270383v1/supercontig_0 (Group) ''
+/chrUn_KI270383v1/supercontig_0/seq (CArray(1750,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270382v1/supercontig_0 (Group) ''
+/chrUn_KI270382v1/supercontig_0/seq (CArray(4215,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270381v1/supercontig_0 (Group) ''
+/chrUn_KI270381v1/supercontig_0/seq (CArray(1930,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270379v1/supercontig_0 (Group) ''
+/chrUn_KI270379v1/supercontig_0/seq (CArray(1045,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270378v1/supercontig_0 (Group) ''
+/chrUn_KI270378v1/supercontig_0/seq (CArray(1048,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270376v1/supercontig_0 (Group) ''
+/chrUn_KI270376v1/supercontig_0/seq (CArray(1136,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270375v1/supercontig_0 (Group) ''
+/chrUn_KI270375v1/supercontig_0/seq (CArray(2378,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270374v1/supercontig_0 (Group) ''
+/chrUn_KI270374v1/supercontig_0/seq (CArray(2656,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270373v1/supercontig_0 (Group) ''
+/chrUn_KI270373v1/supercontig_0/seq (CArray(1451,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270372v1/supercontig_0 (Group) ''
+/chrUn_KI270372v1/supercontig_0/seq (CArray(1650,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270371v1/supercontig_0 (Group) ''
+/chrUn_KI270371v1/supercontig_0/seq (CArray(2805,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270366v1/supercontig_0 (Group) ''
+/chrUn_KI270366v1/supercontig_0/seq (CArray(8320,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270364v1/supercontig_0 (Group) ''
+/chrUn_KI270364v1/supercontig_0/seq (CArray(2855,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270363v1/supercontig_0 (Group) ''
+/chrUn_KI270363v1/supercontig_0/seq (CArray(1803,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270362v1/supercontig_0 (Group) ''
+/chrUn_KI270362v1/supercontig_0/seq (CArray(3530,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270340v1/supercontig_0 (Group) ''
+/chrUn_KI270340v1/supercontig_0/seq (CArray(1428,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270338v1/supercontig_0 (Group) ''
+/chrUn_KI270338v1/supercontig_0/seq (CArray(1428,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270337v1/supercontig_0 (Group) ''
+/chrUn_KI270337v1/supercontig_0/seq (CArray(1121,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270336v1/supercontig_0 (Group) ''
+/chrUn_KI270336v1/supercontig_0/seq (CArray(1026,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270335v1/supercontig_0 (Group) ''
+/chrUn_KI270335v1/supercontig_0/seq (CArray(1048,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270334v1/supercontig_0 (Group) ''
+/chrUn_KI270334v1/supercontig_0/seq (CArray(1368,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270333v1/supercontig_0 (Group) ''
+/chrUn_KI270333v1/supercontig_0/seq (CArray(2699,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270330v1/supercontig_0 (Group) ''
+/chrUn_KI270330v1/supercontig_0/seq (CArray(1652,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270329v1/supercontig_0 (Group) ''
+/chrUn_KI270329v1/supercontig_0/seq (CArray(1040,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270322v1/supercontig_0 (Group) ''
+/chrUn_KI270322v1/supercontig_0/seq (CArray(21476,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270320v1/supercontig_0 (Group) ''
+/chrUn_KI270320v1/supercontig_0/seq (CArray(4416,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270317v1/supercontig_0 (Group) ''
+/chrUn_KI270317v1/supercontig_0/seq (CArray(37690,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270316v1/supercontig_0 (Group) ''
+/chrUn_KI270316v1/supercontig_0/seq (CArray(1444,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270315v1/supercontig_0 (Group) ''
+/chrUn_KI270315v1/supercontig_0/seq (CArray(2276,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270312v1/supercontig_0 (Group) ''
+/chrUn_KI270312v1/supercontig_0/seq (CArray(998,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270311v1/supercontig_0 (Group) ''
+/chrUn_KI270311v1/supercontig_0/seq (CArray(12399,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270310v1/supercontig_0 (Group) ''
+/chrUn_KI270310v1/supercontig_0/seq (CArray(1201,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270305v1/supercontig_0 (Group) ''
+/chrUn_KI270305v1/supercontig_0/seq (CArray(1472,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270304v1/supercontig_0 (Group) ''
+/chrUn_KI270304v1/supercontig_0/seq (CArray(2165,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270303v1/supercontig_0 (Group) ''
+/chrUn_KI270303v1/supercontig_0/seq (CArray(1942,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_KI270302v1/supercontig_0 (Group) ''
+/chrUn_KI270302v1/supercontig_0/seq (CArray(2274,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_GL000226v1/supercontig_0 (Group) ''
+/chrUn_GL000226v1/supercontig_0/seq (CArray(15008,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_GL000224v1/supercontig_0 (Group) ''
+/chrUn_GL000224v1/supercontig_0/seq (CArray(179693,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_GL000220v1/supercontig_0 (Group) ''
+/chrUn_GL000220v1/supercontig_0/seq (CArray(161802,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_GL000219v1/supercontig_0 (Group) ''
+/chrUn_GL000219v1/supercontig_0/seq (CArray(179198,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_GL000218v1/supercontig_0 (Group) ''
+/chrUn_GL000218v1/supercontig_0/seq (CArray(161147,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_GL000216v2/supercontig_0 (Group) ''
+/chrUn_GL000216v2/supercontig_0/seq (CArray(176608,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_GL000214v1/supercontig_0 (Group) ''
+/chrUn_GL000214v1/supercontig_0/seq (CArray(137718,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_GL000213v1/supercontig_0 (Group) ''
+/chrUn_GL000213v1/supercontig_0/seq (CArray(164239,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrUn_GL000195v1/supercontig_0 (Group) ''
+/chrUn_GL000195v1/supercontig_0/seq (CArray(182896,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrM/supercontig_0 (Group) ''
+/chrM/supercontig_0/seq (CArray(16569,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chrEBV/supercontig_0 (Group) ''
+/chrEBV/supercontig_0/seq (CArray(171823,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr9_KI270720v1_random/supercontig_0 (Group) ''
+/chr9_KI270720v1_random/supercontig_0/seq (CArray(39050,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr9_KI270719v1_random/supercontig_0 (Group) ''
+/chr9_KI270719v1_random/supercontig_0/seq (CArray(176845,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr9_KI270718v1_random/supercontig_0 (Group) ''
+/chr9_KI270718v1_random/supercontig_0/seq (CArray(38054,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr9_KI270717v1_random/supercontig_0 (Group) ''
+/chr9_KI270717v1_random/supercontig_0/seq (CArray(40062,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr9/supercontig_0 (Group) ''
+/chr9/supercontig_0/seq (CArray(45518558,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr9/supercontig_1 (Group) ''
+/chr9/supercontig_1/seq (CArray(1631180,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr9/supercontig_2 (Group) ''
+/chr9/supercontig_2/seq (CArray(1965424,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr9/supercontig_3 (Group) ''
+/chr9/supercontig_3/seq (CArray(2076225,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr9/supercontig_4 (Group) ''
+/chr9/supercontig_4/seq (CArray(1329165,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr9/supercontig_5 (Group) ''
+/chr9/supercontig_5/seq (CArray(70174165,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr8/supercontig_0 (Group) ''
+/chr8/supercontig_0/seq (CArray(145138636,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+/chr7/supercontig_0 (Group) ''
+/chr7/supercontig_0/seq (CArray(159345973,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+/chr6/supercontig_0 (Group) ''
+/chr6/supercontig_0/seq (CArray(58453888,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr6/supercontig_1 (Group) ''
+/chr6/supercontig_1/seq (CArray(1276046,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr6/supercontig_2 (Group) ''
+/chr6/supercontig_2/seq (CArray(110576045,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+/chr5_GL000208v1_random/supercontig_0 (Group) ''
+/chr5_GL000208v1_random/supercontig_0/seq (CArray(92689,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr5/supercontig_0 (Group) ''
+/chr5/supercontig_0/seq (CArray(47309084,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr5/supercontig_1 (Group) ''
+/chr5/supercontig_1/seq (CArray(131946790,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+/chr4_GL000008v2_random/supercontig_0 (Group) ''
+/chr4_GL000008v2_random/supercontig_0/seq (CArray(209709,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr4/supercontig_0 (Group) ''
+/chr4/supercontig_0/seq (CArray(49336924,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr4/supercontig_1 (Group) ''
+/chr4/supercontig_1/seq (CArray(140727631,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+/chr3_GL000221v1_random/supercontig_0 (Group) ''
+/chr3_GL000221v1_random/supercontig_0/seq (CArray(155397,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr3/supercontig_0 (Group) ''
+/chr3/supercontig_0/seq (CArray(198295559,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+/chr2_KI270716v1_random/supercontig_0 (Group) ''
+/chr2_KI270716v1_random/supercontig_0/seq (CArray(153799,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr2_KI270715v1_random/supercontig_0 (Group) ''
+/chr2_KI270715v1_random/supercontig_0/seq (CArray(161471,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22_KI270739v1_random/supercontig_0 (Group) ''
+/chr22_KI270739v1_random/supercontig_0/seq (CArray(73985,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22_KI270738v1_random/supercontig_0 (Group) ''
+/chr22_KI270738v1_random/supercontig_0/seq (CArray(99375,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22_KI270737v1_random/supercontig_0 (Group) ''
+/chr22_KI270737v1_random/supercontig_0/seq (CArray(103838,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22_KI270736v1_random/supercontig_0 (Group) ''
+/chr22_KI270736v1_random/supercontig_0/seq (CArray(181920,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22_KI270735v1_random/supercontig_0 (Group) ''
+/chr22_KI270735v1_random/supercontig_0/seq (CArray(42811,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22_KI270734v1_random/supercontig_0 (Group) ''
+/chr22_KI270734v1_random/supercontig_0/seq (CArray(165050,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22_KI270733v1_random/supercontig_0 (Group) ''
+/chr22_KI270733v1_random/supercontig_0/seq (CArray(179772,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22_KI270732v1_random/supercontig_0 (Group) ''
+/chr22_KI270732v1_random/supercontig_0/seq (CArray(41543,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22_KI270731v1_random/supercontig_0 (Group) ''
+/chr22_KI270731v1_random/supercontig_0/seq (CArray(150754,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22/supercontig_0 (Group) ''
+/chr22/supercontig_0/seq (CArray(2394788,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22/supercontig_1 (Group) ''
+/chr22/supercontig_1/seq (CArray(3084811,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr22/supercontig_2 (Group) ''
+/chr22/supercontig_2/seq (CArray(32479339,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr21/supercontig_0 (Group) ''
+/chr21/supercontig_0/seq (CArray(3876604,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr21/supercontig_1 (Group) ''
+/chr21/supercontig_1/seq (CArray(390539,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr21/supercontig_2 (Group) ''
+/chr21/supercontig_2/seq (CArray(642725,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr21/supercontig_3 (Group) ''
+/chr21/supercontig_3/seq (CArray(544692,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr21/supercontig_4 (Group) ''
+/chr21/supercontig_4/seq (CArray(33744175,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr20/supercontig_0 (Group) ''
+/chr20/supercontig_0/seq (CArray(64334167,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr2/supercontig_0 (Group) ''
+/chr2/supercontig_0/seq (CArray(89330679,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr2/supercontig_1 (Group) ''
+/chr2/supercontig_1/seq (CArray(871832,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr2/supercontig_2 (Group) ''
+/chr2/supercontig_2/seq (CArray(2890504,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr2/supercontig_3 (Group) ''
+/chr2/supercontig_3/seq (CArray(147697514,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+/chr1_KI270714v1_random/supercontig_0 (Group) ''
+/chr1_KI270714v1_random/supercontig_0/seq (CArray(41717,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr1_KI270713v1_random/supercontig_0 (Group) ''
+/chr1_KI270713v1_random/supercontig_0/seq (CArray(40745,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr1_KI270712v1_random/supercontig_0 (Group) ''
+/chr1_KI270712v1_random/supercontig_0/seq (CArray(176043,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr1_KI270711v1_random/supercontig_0 (Group) ''
+/chr1_KI270711v1_random/supercontig_0/seq (CArray(42210,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr1_KI270710v1_random/supercontig_0 (Group) ''
+/chr1_KI270710v1_random/supercontig_0/seq (CArray(40176,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr1_KI270709v1_random/supercontig_0 (Group) ''
+/chr1_KI270709v1_random/supercontig_0/seq (CArray(66860,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr1_KI270708v1_random/supercontig_0 (Group) ''
+/chr1_KI270708v1_random/supercontig_0/seq (CArray(127682,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr1_KI270707v1_random/supercontig_0 (Group) ''
+/chr1_KI270707v1_random/supercontig_0/seq (CArray(32032,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr1_KI270706v1_random/supercontig_0 (Group) ''
+/chr1_KI270706v1_random/supercontig_0/seq (CArray(175055,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr19/supercontig_0 (Group) ''
+/chr19/supercontig_0/seq (CArray(24448980,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr19/supercontig_1 (Group) ''
+/chr19/supercontig_1/seq (CArray(17233,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr19/supercontig_2 (Group) ''
+/chr19/supercontig_2/seq (CArray(31376742,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr18/supercontig_0 (Group) ''
+/chr18/supercontig_0/seq (CArray(80263285,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr17_KI270730v1_random/supercontig_0 (Group) ''
+/chr17_KI270730v1_random/supercontig_0/seq (CArray(112551,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr17_KI270729v1_random/supercontig_0 (Group) ''
+/chr17_KI270729v1_random/supercontig_0/seq (CArray(280839,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr17_GL000205v2_random/supercontig_0 (Group) ''
+/chr17_GL000205v2_random/supercontig_0/seq (CArray(185591,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr17/supercontig_0 (Group) ''
+/chr17/supercontig_0/seq (CArray(83257441,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr16_KI270728v1_random/supercontig_0 (Group) ''
+/chr16_KI270728v1_random/supercontig_0/seq (CArray(1872759,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr16/supercontig_0 (Group) ''
+/chr16/supercontig_0/seq (CArray(38280682,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr16/supercontig_1 (Group) ''
+/chr16/supercontig_1/seq (CArray(43847663,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr15_KI270727v1_random/supercontig_0 (Group) ''
+/chr15_KI270727v1_random/supercontig_0/seq (CArray(448248,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr15/supercontig_0 (Group) ''
+/chr15/supercontig_0/seq (CArray(84991189,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr14_KI270726v1_random/supercontig_0 (Group) ''
+/chr14_KI270726v1_random/supercontig_0/seq (CArray(43739,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14_KI270725v1_random/supercontig_0 (Group) ''
+/chr14_KI270725v1_random/supercontig_0/seq (CArray(172810,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14_KI270724v1_random/supercontig_0 (Group) ''
+/chr14_KI270724v1_random/supercontig_0/seq (CArray(39555,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14_KI270723v1_random/supercontig_0 (Group) ''
+/chr14_KI270723v1_random/supercontig_0/seq (CArray(38115,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14_KI270722v1_random/supercontig_0 (Group) ''
+/chr14_KI270722v1_random/supercontig_0/seq (CArray(194050,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14_GL000225v1_random/supercontig_0 (Group) ''
+/chr14_GL000225v1_random/supercontig_0/seq (CArray(211173,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14_GL000194v1_random/supercontig_0 (Group) ''
+/chr14_GL000194v1_random/supercontig_0/seq (CArray(191469,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14_GL000009v2_random/supercontig_0 (Group) ''
+/chr14_GL000009v2_random/supercontig_0/seq (CArray(201709,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14/supercontig_0 (Group) ''
+/chr14/supercontig_0/seq (CArray(117890,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14/supercontig_1 (Group) ''
+/chr14/supercontig_1/seq (CArray(4185,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14/supercontig_2 (Group) ''
+/chr14/supercontig_2/seq (CArray(489121,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14/supercontig_3 (Group) ''
+/chr14/supercontig_3/seq (CArray(649069,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr14/supercontig_4 (Group) ''
+/chr14/supercontig_4/seq (CArray(87272005,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr13/supercontig_0 (Group) ''
+/chr13/supercontig_0/seq (CArray(2051248,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr13/supercontig_1 (Group) ''
+/chr13/supercontig_1/seq (CArray(96193080,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr12/supercontig_0 (Group) ''
+/chr12/supercontig_0/seq (CArray(133275309,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+/chr11_KI270721v1_random/supercontig_0 (Group) ''
+/chr11_KI270721v1_random/supercontig_0/seq (CArray(100316,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr11/supercontig_0 (Group) ''
+/chr11/supercontig_0/seq (CArray(50821348,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr11/supercontig_1 (Group) ''
+/chr11/supercontig_1/seq (CArray(3346726,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr11/supercontig_2 (Group) ''
+/chr11/supercontig_2/seq (CArray(16430622,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr11/supercontig_3 (Group) ''
+/chr11/supercontig_3/seq (CArray(64030926,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr10/supercontig_0 (Group) ''
+/chr10/supercontig_0/seq (CArray(41593521,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr10/supercontig_1 (Group) ''
+/chr10/supercontig_1/seq (CArray(222744,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (65536,)
+/chr10/supercontig_2 (Group) ''
+/chr10/supercontig_2/seq (CArray(91731157,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (131072,)
+/chr1/supercontig_0 (Group) ''
+/chr1/supercontig_0/seq (CArray(125184587,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+/chr1/supercontig_1 (Group) ''
+/chr1/supercontig_1/seq (CArray(105771835,), zlib(1)) ''
+  atom := UInt8Atom(shape=(), dflt=0)
+  maindim := 0
+  flavor := 'numpy'
+  byteorder := 'irrelevant'
+  chunkshape := (262144,)
+,
+ 'kwargs': {},
+ 'open_chromosomes': {}}
